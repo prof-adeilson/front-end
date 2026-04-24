@@ -64,7 +64,7 @@ Estrutura sugerida:
 | Criatividade visual    | 2      |
 
 # Desafio Extra
-Adicionar:
+Adicionar: 
 Mostrar senha 
 Lembrar usuário no localStorage
 Contador de tentativas
